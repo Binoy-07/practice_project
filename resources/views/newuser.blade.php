@@ -33,7 +33,7 @@
                           <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
                           <form class="modal-content">
                               <div class="container">
-                                  <h1>Delete Account</h1>
+                                  <h1>Delete Account</h1> 
                                   <p>Are you sure you want to delete your account?</p>
 
                                   <div class="clearfix">
