@@ -17,7 +17,7 @@ class PdfController extends Controller
         // Data to pass to the view
         $data = [
             'title' => 'My PDF Title',
-        ];
+        ]; 
 
         // Load the view and pass data to it
         $pdf = Pdf::loadView('pdf_example', $data);
